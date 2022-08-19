@@ -5,4 +5,8 @@ def special():
         print('Дыма выпущено: ', smoke, 'mg.')
 
 
+
 special()
+print('Курите меньше.')
+
+
