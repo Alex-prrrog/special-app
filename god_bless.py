@@ -6,5 +6,3 @@ def special():
 
 
 special()
-print('Хорошего дня')
-
